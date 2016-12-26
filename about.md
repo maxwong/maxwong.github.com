@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I am a developer.
+I am a developer. This site is created on the Boxing Day of 2016. 2016 was a very tough year for me.
 
 ### More Information
 

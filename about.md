@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am a developer.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Basically I am a football fan (well, I mean soccer). As I grow older I am more of a fan of football itself than some kind of die-hard fan of a player or a team. But still Manchester United has a spot there.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+You can contact me via github. 
